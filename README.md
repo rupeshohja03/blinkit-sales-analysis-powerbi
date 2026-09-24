@@ -98,14 +98,6 @@ Blinkit ("India's Last Minute App") needed a consolidated view of sales performa
 3. Refresh the data connection if prompted
 4. Explore the dashboard using the slicers on the left panel
 
----
-
-## 📄 Documentation
-
-Full project documentation (requirements, methodology, and detailed insights) is available in [`docs/Blinkit_Dashboard_Documentation.docx`](docs/Blinkit_Dashboard_Documentation.docx).
-
----
-
 ## 📬 Contact
 
 Have questions or suggestions? Feel free to open an issue or reach out.
